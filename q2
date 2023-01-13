@@ -1,0 +1,5 @@
+name="madhur jharwal"
+SID=22104129
+dept="electrical"
+cgpa=9.9
+print("Hey,",name,"here!","\nMy SID is",SID,"\nI am from",dept,"and my cgpa is",cgpa)
